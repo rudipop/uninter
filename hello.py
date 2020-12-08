@@ -1,3 +1,3 @@
-def gree():
-    print('Hello! And Welcome!')
+def gree(name):
+    print('Hello! And Welcome, {name}!', format(name=name))
     
