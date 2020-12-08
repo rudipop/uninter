@@ -1,4 +1,3 @@
 # uninter
 Conteudos faculdade
-Conteudo do
-as aulas de programação
+Bem vindo ao meu repositorio... Aguardo colaborações
